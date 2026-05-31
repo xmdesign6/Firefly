@@ -6,13 +6,13 @@ export const profileConfig: ProfileConfig = {
 	// 1. public 目录（以 "/" 开头，不优化）："/assets/images/avatar.webp"
 	// 2. src 目录（不以 "/" 开头，自动优化但会增加构建时间，推荐）："assets/images/avatar.webp"
 	// 3. 远程 URL："https://example.com/avatar.jpg"
-	avatar: "assets/images/avatar.avif",
+	avatar: "https://q1.qlogo.cn/g?b=qq&nk=4529102&s=100",
 
 	// 名字
 	name: "小北",
 
 	// 个人签名
-	bio: "Hello, Word！.",
+	bio: "我很感谢那些任凭时光流逝却依旧陪在我身边的人。",
 
 	// 链接配置
 	// 已经预装的图标集：fa7-brands，fa7-regular，fa7-solid，material-symbols，simple-icons
@@ -24,13 +24,13 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "qq",
 			icon: "fa7-brands:qq",
-			url: "https://qm.qq.com/",
+			url: " http://wpa.qq.com/msgrd?v=3&uin=1845671166&site=qq&menu=yes",
 			showName: false,
 		},
 		{
 			name: "GitHub",
 			icon: "fa7-brands:github",
-			url: "https://github.com/",
+			url: "https://github.com/xmdesign6",
 			showName: false,
 		},
 		{
