@@ -1,12 +1,11 @@
 ---
 title: 制膜投料
 published: 2026-06-01
-pinned: true
+pinned: false
 description: 制膜投料的基本方法
 tags: [Markdown, HCMS]
 category: HCMS操作
 draft: false
-image: 
 ---
 
 # 投料操作步骤
