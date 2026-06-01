@@ -74,6 +74,6 @@ export const sponsorConfig: SponsorConfig = {
 			// avatar: "",
 			amount: "¥20",
 			date: "2025-10-01",
-		},*
+		},*/
 	],
 };
