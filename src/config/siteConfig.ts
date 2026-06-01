@@ -75,11 +75,11 @@ export const siteConfig: SiteConfig = {
 		// 4. 网络图片: { type: "url", value: "https://example.com/logo.png", alt: "Logo" }
 		logo: {
 			type: "image",
-			value: "assets/images/logo-1.png",
+			value: "assets/images/logo.avif",
 			alt: "logo",
 		},
 		// 导航栏标题
-		title: "",
+		title: "时光碎语",
 		// 全宽导航栏，导航栏是否占满屏幕宽度
 		widthFull: false,
 		// 导航菜单对齐方式，left：左对齐，center：居中
